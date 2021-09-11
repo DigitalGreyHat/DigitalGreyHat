@@ -8,7 +8,7 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
+  <summary>💻 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚝𝚊𝚝𝚜</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DigitalGreyHat Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DigitalGreyHat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DigitalGreyHat&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
@@ -19,7 +19,7 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <details>
-  <summary>⚡ Recent GitHub Activity</summary>
+  <summary>⚡ 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢</summary>
   <br/>
 
 <!--START_SECTION:activity-->
