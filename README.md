@@ -1,4 +1,4 @@
-[<img src="hello.gif"/>
+<img src="hello.gif"/>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Python and Web Dev
