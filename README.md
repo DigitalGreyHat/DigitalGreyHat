@@ -24,7 +24,7 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#16557](https://github.com/timburgan/timburgan/issues/16557) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+1. 🗣 Commented on [#4](https://github.com/Fx64b/AntiPhishBot/issues/4) in [Fx64b/AntiPhishBot](https://github.com/Fx64b/AntiPhishBot)
 <!--END_SECTION:activity-->
 </details>
 
