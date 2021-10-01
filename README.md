@@ -24,7 +24,7 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/Fx64b/AntiPhishBot/issues/4) in [Fx64b/AntiPhishBot](https://github.com/Fx64b/AntiPhishBot)
+1. 💪 Opened PR [#5](https://github.com/Fx64b/AntiPhishBot/pull/5) in [Fx64b/AntiPhishBot](https://github.com/Fx64b/AntiPhishBot)
 <!--END_SECTION:activity-->
 </details>
 
