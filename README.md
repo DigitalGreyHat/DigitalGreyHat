@@ -10,7 +10,7 @@
 <details> 
   <summary>💻 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚝𝚊𝚝𝚜</summary>
   <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=digitalgreyhat&show_icons=true&include_all_commits=true&theme=bluefy&hide_border=true" alt="DigitalGreyHat's GitHub Stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digitalgreyhat&layout=compact&theme=bluefy&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=digitalgreyhat&show_icons=true&include_all_commits=true&theme=bluefy&hide_border=true" alt="DigitalGreyHat's GitHub Stats" /><img align="center" width="169px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digitalgreyhat&layout=compact&theme=bluefy&hide_border=true" />
   
   <br/>
   <b align="left">Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
