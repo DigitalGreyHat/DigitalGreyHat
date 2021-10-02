@@ -6,12 +6,10 @@
 - 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 𝚊𝚗𝚝𝚒𝚋𝚘𝚝𝚌𝚕𝚘𝚞𝚍.𝚡𝚢𝚣
 
 ## 📊 Github stats
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
   <summary>💻 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚝𝚊𝚝𝚜</summary>
   <br/>
-    <img alt="DigitalGreyHat Github Stats" src="https://github-readme-stats.vercel.app/api/?username=DigitalGreyHat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" align="center"/></a><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DigitalGreyHat&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/></a>
+<img alt="DigitalGreyHat Github Stats" src="https://github-readme-stats.vercel.app/api/?username=DigitalGreyHat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" align="center"/></a><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DigitalGreyHat&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   <hr>
