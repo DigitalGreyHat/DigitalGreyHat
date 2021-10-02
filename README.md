@@ -1,4 +1,8 @@
 <img src="hello.gif"/>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 
 ## :book: About Me
 - 🖥 𝙿𝚢𝚝𝚑𝚘𝚗 𝚊𝚗𝚍 𝚆𝚎𝚋 𝙳𝚎𝚟
