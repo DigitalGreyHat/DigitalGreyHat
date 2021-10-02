@@ -9,7 +9,7 @@
 <details> 
   <summary>💻 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚝𝚊𝚝𝚜</summary>
   <br/>
-<img alt="DigitalGreyHat's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=DigitalGreyHat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px"/></a><img alt="DigitalGreyHat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DigitalGreyHat&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px" max-width="52%" align="right"/></a>
+<img alt="DigitalGreyHat's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=DigitalGreyHat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px"/></a><img alt="DigitalGreyHat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DigitalGreyHat&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px" width="448px" align="right"/></a>
   <br/>
   <b align="left">Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   <hr>
