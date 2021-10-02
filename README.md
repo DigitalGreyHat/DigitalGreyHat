@@ -6,10 +6,11 @@
 - 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 𝚊𝚗𝚝𝚒𝚋𝚘𝚝𝚌𝚕𝚘𝚞𝚍.𝚡𝚢𝚣
 
 ## 📊 Github stats
+
 <details> 
   <summary>💻 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚝𝚊𝚝𝚜</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=bluefy&hide_border=true" alt="Anurag's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=bluefy&hide_border=true" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=digitalgreyhata&show_icons=true&include_all_commits=true&theme=bluefy&hide_border=true" alt="DigitalGreyHat's GitHub Stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digitalgreyhat&layout=compact&theme=bluefy&hide_border=true" /></a>
   
   <br/>
   <b align="left">Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
