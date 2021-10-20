@@ -29,7 +29,7 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/Fx64b/AntiPhishBot/pull/5) in [Fx64b/AntiPhishBot](https://github.com/Fx64b/AntiPhishBot)
+1. ❌ Closed PR [#1](https://github.com/DigitalGreyHat/tiktok-api/pull/1) in [DigitalGreyHat/tiktok-api](https://github.com/DigitalGreyHat/tiktok-api)
 <!--END_SECTION:activity-->
 </details>
 
