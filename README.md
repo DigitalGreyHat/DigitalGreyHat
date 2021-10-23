@@ -29,7 +29,7 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/DigitalGreyHat/tiktok-api/pull/1) in [DigitalGreyHat/tiktok-api](https://github.com/DigitalGreyHat/tiktok-api)
+1. ❗️ Opened issue [#5787](https://github.com/python-pillow/Pillow/issues/5787) in [python-pillow/Pillow](https://github.com/python-pillow/Pillow)
 <!--END_SECTION:activity-->
 </details>
 
