@@ -29,7 +29,7 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5787](https://github.com/python-pillow/Pillow/issues/5787) in [python-pillow/Pillow](https://github.com/python-pillow/Pillow)
+1. ❗️ Opened issue [#36](https://github.com/Rydgel/Fake-images-please/issues/36) in [Rydgel/Fake-images-please](https://github.com/Rydgel/Fake-images-please)
 <!--END_SECTION:activity-->
 </details>
 
