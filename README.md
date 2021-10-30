@@ -22,16 +22,5 @@
 
 </details>
 
-
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<details>
-  <summary>⚡ 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢</summary>
-  <br/>
-
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#36](https://github.com/Rydgel/Fake-images-please/issues/36) in [Rydgel/Fake-images-please](https://github.com/Rydgel/Fake-images-please)
-<!--END_SECTION:activity-->
-</details>
-
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DigitalGreyHat Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DigitalGreyHat&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
