@@ -1,4 +1,4 @@
-<img src="hello.gif"/>
+<img src="https://cdn.statically.io/img/raw.githubusercontent.com/DigitalGreyHat/DigitalGreyHat/main/github_profile_banner.png"/>
 
 ## :book: About Me
 - 🖥 𝙿𝚢𝚝𝚑𝚘𝚗 𝚊𝚗𝚍 𝚆𝚎𝚋 𝙳𝚎𝚟
