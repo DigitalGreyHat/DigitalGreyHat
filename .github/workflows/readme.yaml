@@ -1,5 +1,10 @@
 name: Generate GitHub Readme
-on: [push]
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    # runs at midnight UTC every day
+    - cron: "0 0 * * *"
 jobs:
   Generate-Readme-File:
     runs-on: ubuntu-latest
